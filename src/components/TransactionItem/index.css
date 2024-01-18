@@ -1,0 +1,30 @@
+.transaction-list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding-top: 10px;
+  padding-left: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #d7dfe9;
+}
+
+.history-text {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-top: 0px;
+}
+
+.delete-img-styles {
+  height: 20px;
+  width: 20px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}

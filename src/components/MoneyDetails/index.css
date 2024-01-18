@@ -1,0 +1,54 @@
+.green {
+  background-color: #ecfccb;
+  border-color: #84cc16;
+}
+
+.light-blue {
+  background-color: #cffafe;
+  border-color: #06b6d4;
+}
+
+.purple {
+  background-color: #ede9fe;
+  border-color: #7c3aed;
+}
+
+.money-details-card {
+  height: 100px;
+  width: 220px;
+  margin: 10px;
+  padding: 15px;
+  border-style: solid;
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 2px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.img-styles {
+  height: 45px;
+  width: 45px;
+}
+
+.money-details {
+  margin-right: 20px;
+}
+
+.money-text {
+  color: #7e858e;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+.amount {
+  color: #7e858e;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-top: 0px;
+  font-weight: 500;
+}
